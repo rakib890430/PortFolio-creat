@@ -8,6 +8,10 @@ h1{
 .color{
       color: rgb(30, 183, 210);
 }
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
 #rj{
    color: rgba(160, 145, 11, 0.521);
 }
